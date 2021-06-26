@@ -1,0 +1,22 @@
+.App-header {
+  margin: 30px 0;
+  text-align: center;
+  background: repeating-linear-gradient(
+    to left,
+    #9771f3,
+    #ef5e99,
+    #fdd14f,
+    #6fdae7
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.body {
+  display: block;
+  width: 400px;
+  height: 500px;
+  background-color: #fcbaca;
+  border-radius: 60% 40% 60% 40%;
+  margin: 30px auto;
+}
