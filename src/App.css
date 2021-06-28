@@ -1,6 +1,7 @@
 .App-header {
   font-family: "Open Sans", sans-serif;
   margin: 30px 0;
+
   text-align: center;
   background: repeating-linear-gradient(
     to left,
@@ -13,11 +14,16 @@
   -webkit-text-fill-color: transparent;
 }
 
-.body {
+main {
   display: block;
   width: 400px;
-  height: 500px;
+  height: 480px;
   background-color: #fcbaca;
   border-radius: 60% 40% 60% 40%;
   margin: 30px auto;
+}
+
+.App-footer {
+  margin: 20px 0;
+  text-align: center;
 }
