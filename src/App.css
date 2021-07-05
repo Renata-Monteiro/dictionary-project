@@ -14,8 +14,7 @@
 
 .main {
   display: block;
-  height: 480px;
-  width: 400px;
+  max-width: 500px;
   background-color: #fcbaca;
   border-radius: 50px;
   margin: 20px auto;
