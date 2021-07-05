@@ -8,13 +8,18 @@ export default function App() {
         <header className="App-header">  
           <h1>
             SheCodes Dictionary
-          </h1>     
+          </h1>
+          <p>
+            A React project by <a href="https://github.com/Renata-Monteiro" target="_blank" rel="noreferrer"> Renata Monteiro</a>
+              </p>     
         </header>
-        <main>
-        <Dictionary />
-        </main>
+        <div className="main">
+          <main>
+            <Dictionary />
+          </main>
+        </div>
         <footer className="App-footer">
-          Coded by Renata Monteiro
+          Footer
         </footer>
       </div>
     </div>
