@@ -1,0 +1,14 @@
+.Meaning h4 {
+  line-height: 1.5;
+  font-size: 22px;
+  text-transform: capitalize;
+  font-family: "Open Sans", sans-serif;
+  color: #272044;
+}
+
+.Meaning .Example {
+  margin-top: 8px;
+  opacity: 0.9;
+  font-size: 15px;
+  font-style: italic;
+}
