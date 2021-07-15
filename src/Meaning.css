@@ -12,3 +12,7 @@
   font-size: 15px;
   font-style: italic;
 }
+
+.Example::first-letter {
+  text-transform: capitalize;
+}
